@@ -46,9 +46,6 @@ This project demonstrates how to build an **AI Image Generator Website** using *
 3. **script.js**:  
    This file handles the logic for generating AI images, managing user interactions, and toggling between dark and light themes.
 
-## 📺 Video Tutorial
-
-If you prefer learning through videos, watch the accompanying **YouTube tutorial**, where I walk through each part of the code with detailed explanations. This can help you understand the logic behind the website and make building your own easier.
 
 ## 🎯 Goal of the Project
 
@@ -56,11 +53,6 @@ By the end of this project, you will have:
 - A fully functional **AI Image Generator Website**.
 - Hands-on experience with **HTML**, **CSS**, and **JavaScript**.
 - A great project to showcase in your portfolio or share with friends.
-
-## 🌟 Conclusion
-
-Building this AI Image Generator website will enhance your front-end web development skills and provide you with a solid understanding of how to integrate HTML, CSS, and JavaScript for interactive web projects. Happy coding!
-
 ---
 
 ## 🤝 Contributing
