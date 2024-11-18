@@ -2,9 +2,8 @@
 
 ## 📚 Project Overview
 
-This project demonstrates how to build an **AI Image Generator Website** using **HTML**, **CSS**, and **JavaScript**. The website allows users to generate AI-generated images and display them in a clean and user-friendly interface. Whether you prefer video tutorials or step-by-step guides, this project will help you create a fully functional website.
+This project demonstrates how to build an **AI Image Generator Website** using **HTML**, **CSS**, and **JavaScript**. The website allows users to generate AI-generated images and display them in a clean and user-friendly interface. 
 
-If you enjoy video tutorials, check out the accompanying **YouTube video**, where I explain each line of code with informative comments. Alternatively, you can follow this step-by-step guide to build your own AI image generator website and showcase it in your portfolio.
 
 ## 🚀 Features
 - **User Interface**: Clean and intuitive design with a responsive layout.
